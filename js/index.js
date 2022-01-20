@@ -51,6 +51,3 @@ boton2.addEventListener("click", () => lanzar("boton2"))
 boton3.addEventListener("click", () => lanzar("boton3"))
 
 
-/*Holaaaaaaaaaaaaaaa*/
-
-
