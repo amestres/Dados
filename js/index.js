@@ -28,7 +28,7 @@ function ActualizarImagenDado(numero,boton) {
     } else if (boton === "boton3"){
         queDadoActualizo = dado3;
     }
-    queDadoActualizo.src = `../Dados/img/dado${numero}.png`
+    queDadoActualizo.src = `./img/dado${numero}.png`
 }
 
 function ActualizarHistorial(numero,boton) {
