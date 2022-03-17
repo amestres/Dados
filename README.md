@@ -1,1 +1,3 @@
-Mi primera práctica con html/css y javascript
+Preview
+
+![CHEESE!](README_gif/dados.gif)
